@@ -12,7 +12,7 @@ Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the S
 ## Method 3: Adding SfCheckBox assemblies manually from the installed location
 
 If you prefer to manually reference the assemblies instead referencing from NuGet, add the following assemblies in respective projects.
-# Create a Simple SfCheckBox
+## Create a Simple SfCheckBox
 The Xamarin CheckBox (SfCheckBox) control is configured entirely in C# code or by using XAML markup. The following steps explain how to create a SfCheckBox and configure its elements.
 
 ## Add namespace for referred assemblies
